@@ -1,1 +1,1 @@
-# simple-payment-gateaway
+# SimplePaymentGateway
